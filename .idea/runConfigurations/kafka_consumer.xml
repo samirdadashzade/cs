@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="kafka-consumer" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="CS" />
+    <working_directory value="$PROJECT_DIR$/kafka-consumer" />
+    <kind value="PACKAGE" />
+    <package value="github.com/samirdadashzade/cs" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/mqtt-kafka-connect/main.go" />
+    <method v="2" />
+  </configuration>
+</component>

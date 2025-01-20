@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="mqtt-kafka-connect" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="CS" />
+    <working_directory value="$PROJECT_DIR$/mqtt-kafka-connect" />
+    <kind value="PACKAGE" />
+    <package value="github.com/samirdadashzade/cs" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="github.com/samirdadashzade/cs" />
+    <method v="2" />
+  </configuration>
+</component>

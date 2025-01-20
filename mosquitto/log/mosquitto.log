@@ -1,0 +1,273 @@
+1737253240: mosquitto version 2.0.20 starting
+1737253240: Config loaded from /mosquitto/config/mosquitto.conf.
+1737253240: Warning: File /mosquitto/passwd_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/passwd_file`.
+1737253240: Error: Invalid password hash type for user samir, removing entry.
+1737253240: Opening ipv4 listen socket on port 1883.
+1737253240: Opening websockets listen socket on port 9001.
+1737253240: mosquitto version 2.0.20 running
+1737254012: New connection from 172.19.0.1:37330 on port 1883.
+1737254012: Client go_mqtt_client disconnected, not authorised.
+1737254012: New connection from 172.19.0.1:37336 on port 1883.
+1737254012: Client go_mqtt_client disconnected, not authorised.
+1737254034: mosquitto version 2.0.20 terminating
+1737254034: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737254035: mosquitto version 2.0.20 starting
+1737254035: Config loaded from /mosquitto/config/mosquitto.conf.
+1737254035: Warning: File /mosquitto/passwd_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/passwd_file`.
+1737254035: Error: Invalid password hash type for user samir, removing entry.
+1737254035: Opening ipv4 listen socket on port 1883.
+1737254035: Opening websockets listen socket on port 9001.
+1737254035: mosquitto version 2.0.20 running
+1737254077: New connection from 172.19.0.1:59892 on port 1883.
+1737254077: Client go_mqtt_client disconnected, not authorised.
+1737254077: New connection from 172.19.0.1:59896 on port 1883.
+1737254077: Client go_mqtt_client disconnected, not authorised.
+1737254101: mosquitto version 2.0.20 terminating
+1737254101: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737254102: mosquitto version 2.0.20 starting
+1737254102: Config loaded from /mosquitto/config/mosquitto.conf.
+1737254102: Warning: File /mosquitto/passwd_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/passwd_file`.
+1737254102: Error: Invalid password hash type for user samir, removing entry.
+1737254102: Opening ipv4 listen socket on port 1883.
+1737254102: Opening websockets listen socket on port 9001.
+1737254102: mosquitto version 2.0.20 running
+1737254105: New connection from 172.19.0.1:60372 on port 1883.
+1737254105: Client go_mqtt_client disconnected, not authorised.
+1737254105: New connection from 172.19.0.1:60384 on port 1883.
+1737254105: Client go_mqtt_client disconnected, not authorised.
+1737254293: mosquitto version 2.0.20 terminating
+1737254293: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737254293: mosquitto version 2.0.20 starting
+1737254293: Config loaded from /mosquitto/config/mosquitto.conf.
+1737254293: Warning: File /mosquitto/config/passwd_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd_file`.
+1737254293: Error: Invalid password hash type for user samir, removing entry.
+1737254293: Opening ipv4 listen socket on port 1883.
+1737254293: Opening websockets listen socket on port 9001.
+1737254293: mosquitto version 2.0.20 running
+1737254474: mosquitto version 2.0.20 terminating
+1737254474: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737254475: mosquitto version 2.0.20 starting
+1737254475: Config loaded from /mosquitto/config/mosquitto.conf.
+1737254475: Warning: File /mosquitto/config/passwd_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd_file`.
+1737254475: Error: Invalid password hash type for user samir, removing entry.
+1737254475: Opening ipv4 listen socket on port 1883.
+1737254475: Opening websockets listen socket on port 9001.
+1737254475: mosquitto version 2.0.20 running
+1737254629: mosquitto version 2.0.20 terminating
+1737254629: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737254630: mosquitto version 2.0.20 starting
+1737254630: Config loaded from /mosquitto/config/mosquitto.conf.
+1737254630: Warning: File /mosquitto/config/passwd_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd_file`.
+1737254630: Error: Invalid password hash type for user samir, removing entry.
+1737254630: Opening ipv4 listen socket on port 1883.
+1737254630: Opening websockets listen socket on port 9001.
+1737254630: mosquitto version 2.0.20 running
+1737254708: New connection from 172.19.0.1:43294 on port 1883.
+1737254708: Client go_mqtt_client disconnected, not authorised.
+1737254708: New connection from 172.19.0.1:43308 on port 1883.
+1737254708: Client go_mqtt_client disconnected, not authorised.
+1737254715: New connection from 172.19.0.1:56778 on port 1883.
+1737254715: Client go_mqtt_client disconnected, not authorised.
+1737254715: New connection from 172.19.0.1:56788 on port 1883.
+1737254715: Client go_mqtt_client disconnected, not authorised.
+1737254998: mosquitto version 2.0.20 terminating
+1737254998: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737254999: mosquitto version 2.0.20 starting
+1737254999: Config loaded from /mosquitto/config/mosquitto.conf.
+1737254999: Opening ipv4 listen socket on port 1883.
+1737254999: Opening websockets listen socket on port 9001.
+1737254999: mosquitto version 2.0.20 running
+1737255007: New connection from 172.19.0.1:46882 on port 1883.
+1737255007: New client connected from 172.19.0.1:46882 as go_mqtt_client (p2, c1, k30).
+1737255007: Client go_mqtt_client disconnected.
+1737255019: New connection from 172.19.0.1:35912 on port 1883.
+1737255019: New client connected from 172.19.0.1:35912 as go_mqtt_client (p2, c1, k30).
+1737255019: go_mqtt_client 1 topic/test
+1737255029: Client go_mqtt_client disconnected.
+1737255508: New connection from 172.19.0.1:36966 on port 1883.
+1737255508: New client connected from 172.19.0.1:36966 as go_mqtt_client (p2, c1, k30).
+1737255508: go_mqtt_client 1 topic/test
+1737255518: Client go_mqtt_client disconnected.
+1737255663: New connection from 172.19.0.1:60290 on port 1883.
+1737255663: New client connected from 172.19.0.1:60290 as go_mqtt_client (p2, c1, k30).
+1737255663: go_mqtt_client 1 topic/test
+1737255673: Client go_mqtt_client disconnected.
+1737255699: New connection from 172.19.0.1:39814 on port 1883.
+1737255699: New client connected from 172.19.0.1:39814 as go_mqtt_client (p2, c1, k30).
+1737255699: go_mqtt_client 1 topic/samir
+1737255709: Client go_mqtt_client disconnected.
+1737256800: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737258601: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737260402: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737271323: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737296634: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737298435: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737300236: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737302037: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737302886: New connection from 172.19.0.1:33276 on port 1883.
+1737302886: New client connected from 172.19.0.1:33276 as go_mqtt_client (p2, c1, k30).
+1737302886: go_mqtt_client 1 topic/test
+1737302886: Client go_mqtt_client disconnected.
+1737303101: New connection from 172.19.0.1:40596 on port 1883.
+1737303101: New client connected from 172.19.0.1:40596 as go_mqtt_client (p2, c1, k30).
+1737303101: go_mqtt_client 1 topic/test
+1737303101: Client go_mqtt_client closed its connection.
+1737303107: New connection from 172.19.0.1:40608 on port 1883.
+1737303107: New client connected from 172.19.0.1:40608 as go_mqtt_client (p2, c1, k30).
+1737303107: go_mqtt_client 1 topic/test
+1737303107: Client go_mqtt_client disconnected.
+1737303136: New connection from 172.19.0.1:34236 on port 1883.
+1737303136: New client connected from 172.19.0.1:34236 as go_mqtt_client (p2, c1, k30).
+1737303145: New connection from 172.19.0.1:38496 on port 1883.
+1737303145: Client go_mqtt_client already connected, closing old connection.
+1737303145: New client connected from 172.19.0.1:38496 as go_mqtt_client (p2, c1, k30).
+1737303145: go_mqtt_client 1 topic/test
+1737303145: Client go_mqtt_client disconnected.
+1737303145: New connection from 172.19.0.1:38500 on port 1883.
+1737303145: New client connected from 172.19.0.1:38500 as go_mqtt_client (p2, c1, k30).
+1737303146: Client go_mqtt_client disconnected.
+1737303232: New connection from 172.19.0.1:57948 on port 1883.
+1737303232: New client connected from 172.19.0.1:57948 as go_mqtt_publisher (p2, c1, k30).
+1737303239: New connection from 172.19.0.1:57964 on port 1883.
+1737303239: New client connected from 172.19.0.1:57964 as go_mqtt_subscriber (p2, c1, k30).
+1737303239: go_mqtt_subscriber 1 topic/test
+1737303239: Client go_mqtt_subscriber disconnected.
+1737303242: Client go_mqtt_publisher disconnected.
+1737303285: New connection from 172.19.0.1:49504 on port 1883.
+1737303285: New client connected from 172.19.0.1:49504 as go_mqtt_publisher (p2, c1, k30).
+1737303289: New connection from 172.19.0.1:49512 on port 1883.
+1737303289: New client connected from 172.19.0.1:49512 as go_mqtt_subscriber (p2, c1, k30).
+1737303289: go_mqtt_subscriber 1 topic/test
+1737303289: Client go_mqtt_subscriber disconnected.
+1737303295: Client go_mqtt_publisher disconnected.
+1737303597: New connection from 172.19.0.1:50562 on port 1883.
+1737303597: New client connected from 172.19.0.1:50562 as go_mqtt_subscriber (p2, c1, k30).
+1737303597: go_mqtt_subscriber 1 topic/test
+1737303607: New connection from 172.19.0.1:42988 on port 1883.
+1737303607: New client connected from 172.19.0.1:42988 as go_mqtt_publisher (p2, c1, k30).
+1737303617: Client go_mqtt_publisher disconnected.
+1737303623: Client go_mqtt_subscriber closed its connection.
+1737303663: New connection from 172.19.0.1:40146 on port 1883.
+1737303663: New client connected from 172.19.0.1:40146 as go_mqtt_subscriber (p2, c1, k30).
+1737303663: go_mqtt_subscriber 1 topic/test
+1737303668: New connection from 172.19.0.1:40148 on port 1883.
+1737303668: New client connected from 172.19.0.1:40148 as go_mqtt_publisher (p2, c1, k30).
+1737303678: Client go_mqtt_publisher disconnected.
+1737303687: Client go_mqtt_subscriber closed its connection.
+1737303838: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737305639: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737307440: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737308091: New connection from 172.19.0.1:44954 on port 1883.
+1737308091: New client connected from 172.19.0.1:44954 as go_mqtt_subscriber (p2, c1, k30).
+1737308091: go_mqtt_subscriber 1 topic/bess
+1737308110: New connection from 172.19.0.1:48580 on port 1883.
+1737308110: New client connected from 172.19.0.1:48580 as go_mqtt_publisher (p2, c1, k30).
+1737308110: Client go_mqtt_subscriber closed its connection.
+1737308120: Client go_mqtt_publisher disconnected.
+1737308164: New connection from 172.19.0.1:39874 on port 1883.
+1737308164: New client connected from 172.19.0.1:39874 as go_mqtt_subscriber (p2, c1, k30).
+1737308164: go_mqtt_subscriber 1 topic/bess
+1737308169: New connection from 172.19.0.1:39878 on port 1883.
+1737308169: New client connected from 172.19.0.1:39878 as go_mqtt_publisher (p2, c1, k30).
+1737308169: Client go_mqtt_subscriber closed its connection.
+1737308179: Client go_mqtt_publisher disconnected.
+1737308243: New connection from 172.19.0.1:52506 on port 1883.
+1737308243: New client connected from 172.19.0.1:52506 as go_mqtt_subscriber (p2, c1, k30).
+1737308243: go_mqtt_subscriber 1 topic/bess
+1737308248: New connection from 172.19.0.1:52512 on port 1883.
+1737308248: New client connected from 172.19.0.1:52512 as go_mqtt_publisher (p2, c1, k30).
+1737308258: Client go_mqtt_publisher disconnected.
+1737308270: Client go_mqtt_subscriber closed its connection.
+1737309241: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737311042: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737312843: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737314644: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737315434: New connection from 172.19.0.1:34574 on port 1883.
+1737315434: New client connected from 172.19.0.1:34574 as go_mqtt_subscriber (p2, c1, k30).
+1737315434: go_mqtt_subscriber 1 mqtt/bess
+1737315469: New connection from 172.19.0.1:38698 on port 1883.
+1737315469: New client connected from 172.19.0.1:38698 as go_mqtt_publisher (p2, c1, k30).
+1737315469: Client go_mqtt_subscriber closed its connection.
+1737315485: Client go_mqtt_publisher closed its connection.
+1737315551: New connection from 172.19.0.1:36978 on port 1883.
+1737315551: New client connected from 172.19.0.1:36978 as go_mqtt_subscriber (p2, c1, k30).
+1737315551: go_mqtt_subscriber 1 mqtt/bess
+1737315559: New connection from 172.19.0.1:36982 on port 1883.
+1737315559: New client connected from 172.19.0.1:36982 as go_mqtt_publisher (p2, c1, k30).
+1737315578: Client go_mqtt_subscriber closed its connection.
+1737315581: Client go_mqtt_publisher closed its connection.
+1737315712: New connection from 172.19.0.1:45414 on port 1883.
+1737315712: New client connected from 172.19.0.1:45414 as go_mqtt_subscriber (p2, c1, k30).
+1737315712: go_mqtt_subscriber 1 mqtt/bess
+1737315764: New connection from 172.19.0.1:48342 on port 1883.
+1737315764: New client connected from 172.19.0.1:48342 as go_mqtt_publisher (p2, c1, k30).
+1737315781: Client go_mqtt_subscriber closed its connection.
+1737315782: Client go_mqtt_publisher closed its connection.
+1737322318: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737324119: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737325920: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737327721: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737327971: New connection from 172.19.0.1:59952 on port 1883.
+1737327971: New client connected from 172.19.0.1:59952 as go_mqtt_subscriber (p2, c1, k30).
+1737327971: go_mqtt_subscriber 1 mqtt/bess
+1737328005: New connection from 172.19.0.1:56838 on port 1883.
+1737328005: New client connected from 172.19.0.1:56838 as go_mqtt_publisher (p2, c1, k30).
+1737328010: Client go_mqtt_publisher closed its connection.
+1737328017: Client go_mqtt_subscriber closed its connection.
+1737329574: mosquitto version 2.0.20 starting
+1737329574: Config loaded from /mosquitto/config/mosquitto.conf.
+1737329574: Opening ipv4 listen socket on port 1883.
+1737329574: Opening websockets listen socket on port 9001.
+1737329574: mosquitto version 2.0.20 running
+1737329934: New connection from 172.19.0.1:36252 on port 1883.
+1737329934: New client connected from 172.19.0.1:36252 as go_mqtt_subscriber (p2, c1, k30).
+1737329934: go_mqtt_subscriber 1 mqtt/bess
+1737329939: Client go_mqtt_subscriber closed its connection.
+1737330304: New connection from 172.19.0.1:56664 on port 1883.
+1737330304: New client connected from 172.19.0.1:56664 as go_mqtt_subscriber (p2, c1, k30).
+1737330304: go_mqtt_subscriber 1 mqtt/bess
+1737330347: Client go_mqtt_subscriber closed its connection.
+1737331195: New connection from 172.19.0.1:45658 on port 1883.
+1737331195: New client connected from 172.19.0.1:45658 as go_mqtt_publisher (p2, c1, k30).
+1737331197: Client go_mqtt_publisher closed its connection.
+1737331375: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737332729: New connection from 172.19.0.1:55074 on port 1883.
+1737332729: New client connected from 172.19.0.1:55074 as go_mqtt_publisher (p2, c1, k30).
+1737332732: Client go_mqtt_publisher closed its connection.
+1737332770: New connection from 172.19.0.1:59476 on port 1883.
+1737332770: New client connected from 172.19.0.1:59476 as go_mqtt_subscriber (p2, c1, k30).
+1737332770: go_mqtt_subscriber 1 mqtt/bess
+1737332825: Client go_mqtt_subscriber closed its connection.
+1737333011: New connection from 172.19.0.1:60922 on port 1883.
+1737333011: New client connected from 172.19.0.1:60922 as go_mqtt_subscriber (p2, c1, k30).
+1737333011: go_mqtt_subscriber 1 mqtt/bess
+1737333020: New connection from 172.19.0.1:60758 on port 1883.
+1737333020: New client connected from 172.19.0.1:60758 as go_mqtt_publisher (p2, c1, k30).
+1737333088: Client go_mqtt_subscriber closed its connection.
+1737333089: Client go_mqtt_publisher closed its connection.
+1737333121: New connection from 172.19.0.1:50992 on port 1883.
+1737333121: New client connected from 172.19.0.1:50992 as go_mqtt_publisher (p2, c1, k30).
+1737333124: New connection from 172.19.0.1:51004 on port 1883.
+1737333124: New client connected from 172.19.0.1:51004 as go_mqtt_subscriber (p2, c1, k30).
+1737333124: go_mqtt_subscriber 1 mqtt/bess
+1737333132: Client go_mqtt_subscriber closed its connection.
+1737333133: Client go_mqtt_publisher closed its connection.
+1737333176: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737333245: New connection from 172.19.0.1:47318 on port 1883.
+1737333245: New client connected from 172.19.0.1:47318 as go_mqtt_subscriber (p2, c1, k30).
+1737333245: go_mqtt_subscriber 1 mqtt/bess
+1737333248: New connection from 172.19.0.1:47328 on port 1883.
+1737333248: New client connected from 172.19.0.1:47328 as go_mqtt_publisher (p2, c1, k30).
+1737333350: Client go_mqtt_publisher closed its connection.
+1737333353: Client go_mqtt_subscriber closed its connection.
+1737334977: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737336778: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737338579: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1737338843: mosquitto version 2.0.20 terminating
+1737338843: Saving in-memory database to /mosquitto/data//mosquitto.db.

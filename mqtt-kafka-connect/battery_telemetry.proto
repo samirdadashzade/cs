@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package main;
+option go_package="./;main";
+
+message BatteryTelemetry {
+    string id = 1;
+    float voltage = 2;
+    float current = 3;
+    float temperature = 4;
+    float charge = 5;
+}
